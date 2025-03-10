@@ -33,6 +33,8 @@ import leetcode from "./leetcode.png";
 import skillrack from "./skillrack.png";
 import udemy from "./udemy.png";
 import cognizant from "./cognizant.png";
+import expensetracker from "./expensetracker.png";
+import resourcehub from "./resourcehub.png";
 export {
   logo,
   backend,
@@ -66,4 +68,6 @@ export {
   skillrack,
   udemy,
   cognizant,
+  expensetracker,
+  resourcehub,
 };

@@ -27,6 +27,8 @@ import {
   skillrack,
   udemy,
   cognizant,
+  expensetracker,
+  resourcehub,
 } from "../assets";
 
 export const navLinks = [
@@ -179,7 +181,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: carrent,
+    image: resourcehub,
     source_code_link: "https://github.com/Ganesh-165/ResourseHub_Client",
   },
   {
@@ -229,7 +231,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: tripguide,
+    image: expensetracker,
     source_code_link: "https://github.com/Ganesh-165/AmountTracker_Client",
   },
 ];
